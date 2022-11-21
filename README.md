@@ -1,1 +1,1 @@
-# Heart_Disease_Prediction_By_Shrishti
+# Heart_Disease_ML
